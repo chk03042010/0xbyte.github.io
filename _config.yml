@@ -50,6 +50,14 @@ defaults:
     values:
       layout: "home"
 
+title: "Your Name"
+author:
+  name: "Your Name"
+  avatar: /assets/images/avatar.jpg
+  bio: "Malware Analysis & Reverse Engineering Adventures."
+  links:
+    - label: "GitHub"
+      url: "https://github.com/chk03042010"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
