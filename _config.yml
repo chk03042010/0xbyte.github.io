@@ -59,6 +59,14 @@ author:
     - label: "GitHub"
       url: "https://github.com/chk03042010"
 
+
+navigation:
+  - title: "Malware Analysis" url: /categories/malware-analysis/
+  - title: "Binary Exploitation" url: /categories/binary-exploitation/
+  - title: "CTF Writeups" url: /categories/ctf-writeups/
+  - title: "Tutorials" url: /categories/tutorials/
+  - title: "All Categories" url: /categories/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
