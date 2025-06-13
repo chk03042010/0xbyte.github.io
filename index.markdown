@@ -1,8 +1,10 @@
 ---
 layout: home
-title: "My Blog"
+title: "chk03042010"
 author_profile: true
 ---
+
 Welcome to my blog!
+
 
 
